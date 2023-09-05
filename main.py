@@ -2,7 +2,7 @@ import random
 import requests
 import time
 
-#404 means not available 
+#404 means not available and 200 could possibly be banned
 
 ea = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i',  'j','k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't','u','v', 'w', 'x', 'y', 'z',]
 
